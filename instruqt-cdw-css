@@ -1,0 +1,9 @@
+<head>
+    <style>
+        pfigure {
+				color: purple;
+				font-size: 150%;
+			}
+    </style>
+</head>
+
